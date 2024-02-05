@@ -3,11 +3,12 @@
 Prepare for interviews in easier way
 
 - [Interview Kit](#interview-kit)
-  - [What is Sharding?](#what-is-sharding)
-  - [What is the difference between low level and high level language?](#what-is-the-difference-between-low-level-and-high-level-language)
-  - [What is Kernel?](#what-is-kernel)
+  - [1. What is Sharding?](#1-what-is-sharding)
+  - [2. What is the difference between low level and high level language?](#2-what-is-the-difference-between-low-level-and-high-level-language)
+  - [3. What is Kernel?](#3-what-is-kernel)
+  - [4. What is Consistent Hashing?](#4-what-is-consistent-hashing)
 
-## What is Sharding?
+## 1. What is Sharding?
 
 <details>
   <summary>Answer</summary>
@@ -17,7 +18,7 @@ In DBMS, Sharding is a type of DataBase partitioning in which a large database i
 
 </details>
 
-## What is the difference between low level and high level language?
+## 2. What is the difference between low level and high level language?
 
 <details>
   <summary>Answer</summary>
@@ -34,12 +35,19 @@ SQL is even higher level (it's declarative). Just say "Give me all the items in 
 
 </details>
 
-## What is Kernel?
+## 3. What is Kernel?
 
 <details>
 <summary>Answer</summary>
 Kernel is central component of an operating system that manages operations of computer and hardware. It basically manages operations of memory and CPU time. It is core component of an operating system. Kernel acts as a bridge between applications and data processing performed at hardware level using inter-process communication and system calls.
 
 Kernel loads first into memory when an operating system is loaded and remains into memory until operating system is shut down again. It is responsible for various tasks such as disk management, task management, and memory management.
-
 </details>
+
+## 4. What is Consistent Hashing?
+
+<details>
+<summary>Answer</summary>
+Consistent Hashing is a distributed hashing scheme that operates independently of the number of servers or objects in a distributed hash table. It powers many high-traffic dynamic websites and web applications.
+</details>
+[Read More](https://www.toptal.com/big-data/consistent-hashing)
