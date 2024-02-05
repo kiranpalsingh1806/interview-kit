@@ -50,4 +50,5 @@ Kernel loads first into memory when an operating system is loaded and remains in
 <summary>Answer</summary>
 Consistent Hashing is a distributed hashing scheme that operates independently of the number of servers or objects in a distributed hash table. It powers many high-traffic dynamic websites and web applications.
 </details>
+
 [Read More](https://www.toptal.com/big-data/consistent-hashing)
